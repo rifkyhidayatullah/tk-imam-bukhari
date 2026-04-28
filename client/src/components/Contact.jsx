@@ -80,7 +80,7 @@ function Contact() {
           <div className="mt-6 text-sm text-gray-500 space-y-2">
             <p>📍 Cifest</p>
             <p>📞 08xxxxxxxxxx</p>
-            <p>✉️ info@tkimambukhori.sch.id</p>
+            <p>✉️ info@tkimambukhari.sch.id</p>
           </div>
         </form>
 

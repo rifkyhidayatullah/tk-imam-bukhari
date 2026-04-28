@@ -87,7 +87,7 @@ function Footer() {
 
       {/* Bottom */}
       <div className="border-t border-white/10 mt-14 pt-8 text-center text-gray-400 text-sm">
-        © 2026 TK Imam Bukhori.
+        © 2026 TK Imam Bukhari.
       </div>
     </footer>
   );
